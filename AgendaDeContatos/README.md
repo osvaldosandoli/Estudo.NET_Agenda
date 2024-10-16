@@ -2,11 +2,11 @@
 
 Comandos utilizados para a aplicação:
 
-<h2> Adicionando a biblioteca do SqlServer para estabelecer conexão. </h2>
+<h5> Adicionando a biblioteca do SqlServer para estabelecer conexão. </h5>
 - dotnet add package Microsoft.EntityFrameworkCore.SqlServer
-<h2> Adicionando a biblioteca do Tools para gerenciar o SQL </h2>
+<h5> Adicionando a biblioteca do Tools para gerenciar o SQL </h5>
 -- dotnet add package Microsoft.EntityFrameworkCore.Tools
-<h2> Comando para criar a DATABASE e as Tabelas no SQL automaticamente. </h2>
+<h5> Comando para criar a DATABASE e as Tabelas no SQL automaticamente. </h5>
 --- dotnet ef migrations add Inicial
-<h2> Comando utilizado para ajustar a base de dados </h2>
+<h5> Comando utilizado para ajustar a base de dados </h5>
 ----dotnet ef database update
