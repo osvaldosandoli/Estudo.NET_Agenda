@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\osval\\source\\repos\\AgendaDeContatos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44599D82-0AA6-45BB-8132-655CF5B5D57C}|AgendaDeContatos\\AgendaDeContatos.csproj|c:\\users\\osval\\source\\repos\\agendadecontatos\\agendadecontatos\\views\\shared\\home\\listarview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44599D82-0AA6-45BB-8132-655CF5B5D57C}|AgendaDeContatos\\AgendaDeContatos.csproj|solutionrelative:agendadecontatos\\views\\shared\\home\\listarview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44599D82-0AA6-45BB-8132-655CF5B5D57C}|AgendaDeContatos\\AgendaDeContatos.csproj|c:\\users\\osval\\source\\repos\\agendadecontatos\\agendadecontatos\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44599D82-0AA6-45BB-8132-655CF5B5D57C}|AgendaDeContatos\\AgendaDeContatos.csproj|solutionrelative:agendadecontatos\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44599D82-0AA6-45BB-8132-655CF5B5D57C}|AgendaDeContatos\\AgendaDeContatos.csproj|c:\\users\\osval\\source\\repos\\agendadecontatos\\agendadecontatos\\views\\contato\\cadastrarview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44599D82-0AA6-45BB-8132-655CF5B5D57C}|AgendaDeContatos\\AgendaDeContatos.csproj|solutionrelative:agendadecontatos\\views\\contato\\cadastrarview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44599D82-0AA6-45BB-8132-655CF5B5D57C}|AgendaDeContatos\\AgendaDeContatos.csproj|c:\\users\\osval\\source\\repos\\agendadecontatos\\agendadecontatos\\views\\contato\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44599D82-0AA6-45BB-8132-655CF5B5D57C}|AgendaDeContatos\\AgendaDeContatos.csproj|solutionrelative:agendadecontatos\\views\\contato\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44599D82-0AA6-45BB-8132-655CF5B5D57C}|AgendaDeContatos\\AgendaDeContatos.csproj|c:\\users\\osval\\source\\repos\\agendadecontatos\\agendadecontatos\\models\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44599D82-0AA6-45BB-8132-655CF5B5D57C}|AgendaDeContatos\\AgendaDeContatos.csproj|solutionrelative:agendadecontatos\\models\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44599D82-0AA6-45BB-8132-655CF5B5D57C}|AgendaDeContatos\\AgendaDeContatos.csproj|c:\\users\\osval\\source\\repos\\agendadecontatos\\agendadecontatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44599D82-0AA6-45BB-8132-655CF5B5D57C}|AgendaDeContatos\\AgendaDeContatos.csproj|solutionrelative:agendadecontatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44599D82-0AA6-45BB-8132-655CF5B5D57C}|AgendaDeContatos\\AgendaDeContatos.csproj|c:\\users\\osval\\source\\repos\\agendadecontatos\\agendadecontatos\\views\\contato\\listarview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44599D82-0AA6-45BB-8132-655CF5B5D57C}|AgendaDeContatos\\AgendaDeContatos.csproj|solutionrelative:agendadecontatos\\views\\contato\\listarview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44599D82-0AA6-45BB-8132-655CF5B5D57C}|AgendaDeContatos\\AgendaDeContatos.csproj|c:\\users\\osval\\source\\repos\\agendadecontatos\\agendadecontatos\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44599D82-0AA6-45BB-8132-655CF5B5D57C}|AgendaDeContatos\\AgendaDeContatos.csproj|solutionrelative:agendadecontatos\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44599D82-0AA6-45BB-8132-655CF5B5D57C}|AgendaDeContatos\\AgendaDeContatos.csproj|c:\\users\\osval\\source\\repos\\agendadecontatos\\agendadecontatos\\data\\agendacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44599D82-0AA6-45BB-8132-655CF5B5D57C}|AgendaDeContatos\\AgendaDeContatos.csproj|solutionrelative:agendadecontatos\\data\\agendacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44599D82-0AA6-45BB-8132-655CF5B5D57C}|AgendaDeContatos\\AgendaDeContatos.csproj|c:\\users\\osval\\source\\repos\\agendadecontatos\\agendadecontatos\\views\\shared\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44599D82-0AA6-45BB-8132-655CF5B5D57C}|AgendaDeContatos\\AgendaDeContatos.csproj|solutionrelative:agendadecontatos\\views\\shared\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44599D82-0AA6-45BB-8132-655CF5B5D57C}|AgendaDeContatos\\AgendaDeContatos.csproj|c:\\users\\osval\\source\\repos\\agendadecontatos\\agendadecontatos\\views\\shared\\home\\cadastrarview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44599D82-0AA6-45BB-8132-655CF5B5D57C}|AgendaDeContatos\\AgendaDeContatos.csproj|solutionrelative:agendadecontatos\\views\\shared\\home\\cadastrarview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44599D82-0AA6-45BB-8132-655CF5B5D57C}|AgendaDeContatos\\AgendaDeContatos.csproj|c:\\users\\osval\\source\\repos\\agendadecontatos\\agendadecontatos\\views\\shared\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44599D82-0AA6-45BB-8132-655CF5B5D57C}|AgendaDeContatos\\AgendaDeContatos.csproj|solutionrelative:agendadecontatos\\views\\shared\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44599D82-0AA6-45BB-8132-655CF5B5D57C}|AgendaDeContatos\\AgendaDeContatos.csproj|c:\\users\\osval\\source\\repos\\agendadecontatos\\agendadecontatos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44599D82-0AA6-45BB-8132-655CF5B5D57C}|AgendaDeContatos\\AgendaDeContatos.csproj|solutionrelative:agendadecontatos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44599D82-0AA6-45BB-8132-655CF5B5D57C}|AgendaDeContatos\\AgendaDeContatos.csproj|c:\\users\\osval\\source\\repos\\agendadecontatos\\agendadecontatos\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44599D82-0AA6-45BB-8132-655CF5B5D57C}|AgendaDeContatos\\AgendaDeContatos.csproj|solutionrelative:agendadecontatos\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44599D82-0AA6-45BB-8132-655CF5B5D57C}|AgendaDeContatos\\AgendaDeContatos.csproj|c:\\users\\osval\\source\\repos\\agendadecontatos\\agendadecontatos\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44599D82-0AA6-45BB-8132-655CF5B5D57C}|AgendaDeContatos\\AgendaDeContatos.csproj|solutionrelative:agendadecontatos\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\osval\\source\\repos\\AgendaDeContatos\\AgendaDeContatos\\Views\\Contato\\Index.cshtml",
+              "RelativeDocumentMoniker": "AgendaDeContatos\\Views\\Contato\\Index.cshtml",
+              "ToolTip": "C:\\Users\\osval\\source\\repos\\AgendaDeContatos\\AgendaDeContatos\\Views\\Contato\\Index.cshtml",
+              "RelativeToolTip": "AgendaDeContatos\\Views\\Contato\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T01:15:38.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CadastrarView.cshtml",
+              "DocumentMoniker": "C:\\Users\\osval\\source\\repos\\AgendaDeContatos\\AgendaDeContatos\\Views\\Contato\\CadastrarView.cshtml",
+              "RelativeDocumentMoniker": "AgendaDeContatos\\Views\\Contato\\CadastrarView.cshtml",
+              "ToolTip": "C:\\Users\\osval\\source\\repos\\AgendaDeContatos\\AgendaDeContatos\\Views\\Contato\\CadastrarView.cshtml",
+              "RelativeToolTip": "AgendaDeContatos\\Views\\Contato\\CadastrarView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T01:12:54.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListarView.cshtml",
+              "DocumentMoniker": "C:\\Users\\osval\\source\\repos\\AgendaDeContatos\\AgendaDeContatos\\Views\\Shared\\Home\\ListarView.cshtml",
+              "RelativeDocumentMoniker": "AgendaDeContatos\\Views\\Shared\\Home\\ListarView.cshtml",
+              "ToolTip": "C:\\Users\\osval\\source\\repos\\AgendaDeContatos\\AgendaDeContatos\\Views\\Shared\\Home\\ListarView.cshtml",
+              "RelativeToolTip": "AgendaDeContatos\\Views\\Shared\\Home\\ListarView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T22:53:15.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContatoController.cs",
+              "DocumentMoniker": "C:\\Users\\osval\\source\\repos\\AgendaDeContatos\\AgendaDeContatos\\Controllers\\ContatoController.cs",
+              "RelativeDocumentMoniker": "AgendaDeContatos\\Controllers\\ContatoController.cs",
+              "ToolTip": "C:\\Users\\osval\\source\\repos\\AgendaDeContatos\\AgendaDeContatos\\Controllers\\ContatoController.cs",
+              "RelativeToolTip": "AgendaDeContatos\\Controllers\\ContatoController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wBcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T22:55:33.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\osval\\source\\repos\\AgendaDeContatos\\AgendaDeContatos\\Program.cs",
+              "RelativeDocumentMoniker": "AgendaDeContatos\\Program.cs",
+              "ToolTip": "C:\\Users\\osval\\source\\repos\\AgendaDeContatos\\AgendaDeContatos\\Program.cs",
+              "RelativeToolTip": "AgendaDeContatos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T23:34:29.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contato.cs",
+              "DocumentMoniker": "C:\\Users\\osval\\source\\repos\\AgendaDeContatos\\AgendaDeContatos\\Models\\Contato.cs",
+              "RelativeDocumentMoniker": "AgendaDeContatos\\Models\\Contato.cs",
+              "ToolTip": "C:\\Users\\osval\\source\\repos\\AgendaDeContatos\\AgendaDeContatos\\Models\\Contato.cs",
+              "RelativeToolTip": "AgendaDeContatos\\Models\\Contato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T23:04:42.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\osval\\source\\repos\\AgendaDeContatos\\AgendaDeContatos\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "AgendaDeContatos\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\osval\\source\\repos\\AgendaDeContatos\\AgendaDeContatos\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "AgendaDeContatos\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T22:43:50.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CadastrarView.cshtml",
+              "DocumentMoniker": "C:\\Users\\osval\\source\\repos\\AgendaDeContatos\\AgendaDeContatos\\Views\\Shared\\Home\\CadastrarView.cshtml",
+              "RelativeDocumentMoniker": "AgendaDeContatos\\Views\\Shared\\Home\\CadastrarView.cshtml",
+              "ToolTip": "C:\\Users\\osval\\source\\repos\\AgendaDeContatos\\AgendaDeContatos\\Views\\Shared\\Home\\CadastrarView.cshtml",
+              "RelativeToolTip": "AgendaDeContatos\\Views\\Shared\\Home\\CadastrarView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T22:52:30.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\osval\\source\\repos\\AgendaDeContatos\\AgendaDeContatos\\Views\\Shared\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AgendaDeContatos\\Views\\Shared\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\osval\\source\\repos\\AgendaDeContatos\\AgendaDeContatos\\Views\\Shared\\Home\\Index.cshtml",
+              "RelativeToolTip": "AgendaDeContatos\\Views\\Shared\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T22:43:57.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListarView.cshtml",
+              "DocumentMoniker": "C:\\Users\\osval\\source\\repos\\AgendaDeContatos\\AgendaDeContatos\\Views\\Contato\\ListarView.cshtml",
+              "RelativeDocumentMoniker": "AgendaDeContatos\\Views\\Contato\\ListarView.cshtml",
+              "ToolTip": "C:\\Users\\osval\\source\\repos\\AgendaDeContatos\\AgendaDeContatos\\Views\\Contato\\ListarView.cshtml",
+              "RelativeToolTip": "AgendaDeContatos\\Views\\Contato\\ListarView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T01:13:30.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\osval\\source\\repos\\AgendaDeContatos\\AgendaDeContatos\\Views\\Shared\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "AgendaDeContatos\\Views\\Shared\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\osval\\source\\repos\\AgendaDeContatos\\AgendaDeContatos\\Views\\Shared\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "AgendaDeContatos\\Views\\Shared\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T22:44:06.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AgendaContext.cs",
+              "DocumentMoniker": "C:\\Users\\osval\\source\\repos\\AgendaDeContatos\\AgendaDeContatos\\Data\\AgendaContext.cs",
+              "RelativeDocumentMoniker": "AgendaDeContatos\\Data\\AgendaContext.cs",
+              "ToolTip": "C:\\Users\\osval\\source\\repos\\AgendaDeContatos\\AgendaDeContatos\\Data\\AgendaContext.cs",
+              "RelativeToolTip": "AgendaDeContatos\\Data\\AgendaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T23:30:02.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\osval\\source\\repos\\AgendaDeContatos\\AgendaDeContatos\\appsettings.json",
+              "RelativeDocumentMoniker": "AgendaDeContatos\\appsettings.json",
+              "ToolTip": "C:\\Users\\osval\\source\\repos\\AgendaDeContatos\\AgendaDeContatos\\appsettings.json",
+              "RelativeToolTip": "AgendaDeContatos\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-15T22:58:38.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\osval\\source\\repos\\AgendaDeContatos\\AgendaDeContatos\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AgendaDeContatos\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\osval\\source\\repos\\AgendaDeContatos\\AgendaDeContatos\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AgendaDeContatos\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T00:10:50.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\osval\\source\\repos\\AgendaDeContatos\\AgendaDeContatos\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AgendaDeContatos\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\osval\\source\\repos\\AgendaDeContatos\\AgendaDeContatos\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "AgendaDeContatos\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T00:10:48.522Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

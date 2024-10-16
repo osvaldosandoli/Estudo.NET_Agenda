@@ -1,0 +1,29 @@
+﻿@model IEnumerable<AgendaDeContatos.Models.Contato>
+@using AgendaDeContatos.Models;
+
+<h2>Lista de Contatos</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>Telefone</th>
+            <th>Email</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var contato in Model)
+        {
+            <tr>
+                <td>@contato.Nome</td>
+                <td>@contato.Telefone</td>
+                <td>@contato.Email</td>
+                <td>
+                    <!-- Ações: editar, excluir etc. -->
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="@Url.Action("CadastrarView", "Contato")" class="btn btn-primary">Novo Contato</a>
